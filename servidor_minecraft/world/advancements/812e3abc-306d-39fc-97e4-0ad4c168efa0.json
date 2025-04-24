@@ -11,6 +11,8 @@
       "minecraft:river": "2025-04-23 23:37:35 +0000",
       "minecraft:dripstone_caves": "2025-04-23 23:48:12 +0000",
       "minecraft:forest": "2025-04-23 23:37:12 +0000",
+      "minecraft:jungle": "2025-04-24 00:29:14 +0000",
+      "minecraft:deep_dark": "2025-04-24 00:29:16 +0000",
       "minecraft:savanna": "2025-04-23 22:45:04 +0000",
       "minecraft:plains": "2025-04-23 23:37:49 +0000"
     },
@@ -355,6 +357,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-23 22:59:45 +0000",
+      "cooked_mutton": "2025-04-24 00:27:56 +0000",
       "cooked_beef": "2025-04-23 23:30:55 +0000",
       "mutton": "2025-04-23 22:57:57 +0000"
     },
@@ -429,6 +432,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-04-23 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:20:40 +0000"
     },
     "done": true
   },
@@ -534,9 +543,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:20:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-23 23:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-24 00:28:07 +0000"
     },
     "done": true
   },
@@ -597,6 +618,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-23 23:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:20:40 +0000"
     },
     "done": true
   },
@@ -684,6 +711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:20:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-23 23:54:52 +0000"
@@ -768,6 +801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:20:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-04-23 23:54:52 +0000"
@@ -834,6 +873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:20:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-04-24 00:10:18 +0000"
@@ -881,6 +926,7 @@
       "minecraft:skeleton": "2025-04-23 23:44:26 +0000",
       "minecraft:spider": "2025-04-23 23:36:23 +0000",
       "minecraft:creeper": "2025-04-23 23:39:58 +0000",
+      "minecraft:enderman": "2025-04-24 00:22:26 +0000",
       "minecraft:zombie": "2025-04-23 23:36:34 +0000"
     },
     "done": false
@@ -1011,6 +1057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:20:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-23 23:54:52 +0000"
@@ -1077,6 +1129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:20:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-04-23 23:55:38 +0000"
@@ -1128,6 +1186,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-23 23:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:20:40 +0000"
     },
     "done": true
   },
