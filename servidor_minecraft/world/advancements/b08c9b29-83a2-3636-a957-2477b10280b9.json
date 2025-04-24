@@ -388,9 +388,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_the_recipe": "2025-04-24 00:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:42:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-24 00:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 00:49:18 +0000"
     },
     "done": true
   },
@@ -415,6 +433,24 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-24 00:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 00:49:18 +0000"
     },
     "done": true
   },
@@ -454,6 +490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_the_recipe": "2025-04-24 00:47:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-24 00:02:36 +0000"
@@ -484,6 +526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 00:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-04-24 00:10:44 +0000"
@@ -502,9 +550,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 00:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-24 00:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:42:26 +0000"
     },
     "done": true
   },
@@ -532,6 +592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 00:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-24 00:22:13 +0000"
@@ -550,9 +616,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 00:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-24 00:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:42:26 +0000"
     },
     "done": true
   },
@@ -586,6 +676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 00:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-24 00:02:42 +0000"
@@ -607,6 +703,30 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-24 00:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-24 00:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-24 00:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:42:26 +0000"
     },
     "done": true
   },
@@ -651,6 +771,18 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-04-24 00:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 00:49:18 +0000"
     },
     "done": true
   },
@@ -756,6 +888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 00:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-24 00:05:02 +0000"
@@ -764,8 +902,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-24 00:42:48 +0000",
       "cooked_mutton": "2025-04-24 00:03:39 +0000",
-      "cooked_beef": "2025-04-24 00:14:40 +0000"
+      "cooked_beef": "2025-04-24 00:14:40 +0000",
+      "rotten_flesh": "2025-04-24 00:39:42 +0000",
+      "cooked_chicken": "2025-04-24 00:57:45 +0000"
     },
     "done": false
   },
@@ -841,9 +982,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 00:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-24 00:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-24 00:42:26 +0000"
     },
     "done": true
   },
@@ -874,6 +1027,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-24 00:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-24 00:49:18 +0000"
     },
     "done": true
   },
